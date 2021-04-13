@@ -1,9 +1,9 @@
-###################
-### FIELDimageR ###
-###################
+#################
+### TERRA REF ###
+#################
 
-library(FIELDimageR)
 library(raster)
+library(dplyr)
+library(ggplot2)
 
-?fieldCrop
-citation("FIELDimageR")
+?raster
