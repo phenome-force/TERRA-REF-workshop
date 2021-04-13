@@ -6,6 +6,6 @@ Kristina Riemer & David LeBauer
 
 Tutorial: https://github.com/terraref/tutorials/blob/master/videos/phenomeforce_2021/walkthrough.md
 
-Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phenome-force/TERRA-REF-workshop.git/master?urlpath=rstudio)
+Go to RStudio on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phenome-force/TERRA-REF-workshop.git/master?urlpath=rstudio)
 
 
